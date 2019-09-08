@@ -8,7 +8,7 @@ utilizeGhostInputTrack: true
 # MIDI port which has a name which starts with a value from this list. If multiple matching MIDI devices are available,
 # the one appearing earlier is chosen.
 # You may alter the list to suit your needs.
-defaultMPEControllerNamePrefix: "Seaboard", "Lightpad", "LinnStrument", "Soundplane"
+defaultMPEControllerNamePrefix: "Seaboard", "Lightpad", "LinnStrument", "Soundplane", "BLOCKS"
 
 # defaultMpeChannelCount: defines how many MPE sub tracks will be created = how many channels are listened to.
 defaultMpeChannelCount: 16
